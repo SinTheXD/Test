@@ -990,7 +990,7 @@ end
 updateKeybindDisplay()
 
 local methodText = getgenv().useV3Method and "V3" or "V4"
-local notificationText = "BY LINHMC_NEW | Method: " .. methodText
+local notificationText = "Sussesfully Loaded! | Method: " .. methodText
 game:GetService("StarterGui"):SetCore("SendNotification", { 
     Title = "FLY GUI V4";
     Text = notificationText;
