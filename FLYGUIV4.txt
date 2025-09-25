@@ -994,6 +994,6 @@ local notificationText = "Sussesfully Loaded! | Method: " .. methodText
 game:GetService("StarterGui"):SetCore("SendNotification", { 
     Title = "FLY GUI V4";
     Text = notificationText;
-    Icon = "rbxassetid://132292718620518";
+    Icon = "rbxassetid://81226314252502";
     Duration = 5;
 })
