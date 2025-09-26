@@ -176,7 +176,7 @@ nowe = false
 game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "Notify";
     Text = "Succesfully Loaded! Modded by XDThe22 Lol";
-    Icon = game.Players:GetUserThumbnailAsync(game.Players:GetUserIdFromNameAsync("Roun95"), Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size420x420)})
+    Icon = rbxassetid://81226314252502
     Duration = 10;
 
 Frame.Active = true -- main = gui
