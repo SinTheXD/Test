@@ -37,7 +37,7 @@ TitleBar.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
 TitleBar.TextColor3 = Color3.fromRGB(255, 255, 255)
 TitleBar.BackgroundTransparency = 0.5
 TitleBar.Size = UDim2.new(0.79167, 0, 0.13333, 0)
-TitleBar.Text = "Better Keyboard・Made by StarFlow"
+TitleBar.Text = "Better Keyboard"
 TitleBar.Position = UDim2.new(0, 0, 0, 0)
 TitleBar.Parent = MainFrame
 
