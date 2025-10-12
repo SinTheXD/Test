@@ -105,5 +105,5 @@ if Cgui:FindFirstChild("CHOOSE") then
     Cgui.CHOOSE:Destroy()
 end
 notify("Chosen Gelatek")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Solary-3/Scripts/refs/heads/main/GelatekVersion.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SinTheXD/Test/refs/heads/main/GelatekVersion.lua.txt"))()
 end)
