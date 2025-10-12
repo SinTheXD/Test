@@ -97,7 +97,7 @@ if Cgui:FindFirstChild("CHOOSE") then
     Cgui.CHOOSE:Destroy()
 end
 notify("Chosen Currentangle")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Solary-3/Scripts/refs/heads/main/CurrentangleVer.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SinTheXD/Test/refs/heads/main/CurrentangleVer.lua.txt"))()
 end)
 GELATEK.MouseButton1Click:Connect(function()
 Cgui = game:GetService("CoreGui")
