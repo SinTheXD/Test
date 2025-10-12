@@ -719,9 +719,9 @@ local lol = math.random(1,30)
 if lol == 2 then 
 	lol = true 
 end
-local idleanim = is:LoadLocalAsset("rbxassetid://74204337812128") -- uuid. 136078657506707
-local walkanim = is:LoadLocalAsset("rbxassetid://73688515498572") -- uuid. 130213485744288
-local sprintanim = is:LoadLocalAsset("rbxassetid://73688515498572") -- uuid. 119558526211035
+local idleanim = is:LoadLocalAsset("rbxassetid://72560503728413") -- uuid. 136078657506707
+local walkanim = is:LoadLocalAsset("rbxassetid://106282482120298") -- uuid. 130213485744288
+local sprintanim = is:LoadLocalAsset("rbxassetid://117982368359870") -- uuid. 119558526211035
 local randompart = Instance.new("Part",game:GetService("RunService"))
 local coolparticles = game:GetObjects("rbxassetid://87299663038091")[1].ParticleAttachment
 coolparticles.Parent = randompart
