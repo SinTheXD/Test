@@ -37,7 +37,7 @@ local function createTag(player)
 		local label = Instance.new("TextLabel")
 		label.Size = UDim2.new(1, 0, 1, 0)
 		label.BackgroundTransparency = 1
-		label.Text = "Modded Kdv3 / Theo Hub Owner / Developer"
+		label.Text = "Owner Script"
 		label.TextColor3 = Color3.new(1, 1, 0)
 		label.TextStrokeTransparency = 0
 		label.TextScaled = true
